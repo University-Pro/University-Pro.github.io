@@ -1,57 +1,72 @@
 # Tang Zhizhe(zztang)(CN:汤至哲)
 
-> Master of Artificial Intelligence(AI) | Seeking PhD Position in Computer Vision start at 2026 fall (after july) or 2027 spring
+[![中文文档](https://img.shields.io/badge/中文-文档-blue.svg)](./README_CN.md)
+[![Japanese Document](https://img.shields.io/badge/English-Docs-orange.svg)](./README_JP.md)
+[![Korean Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.md)
 
-🌐 **Info Website:** [https://zztang.anhuiuniversity.top](https://zztang.anhuiuniversity.top) | 
-💻 **Github** [Personal Page Overview](https://github.com/University-Pro) |
-📧 **Email** zztang@stu.ahu.edu.cn | 
-Ⓜ️ **ORCID** https://orcid.org/0009-0006-9083-8967
-✏️ **Blog Website** [My Blog](http://8.133.3.212) |
-📍 **Location:** Hefei, Anhui, China |
+> Master of Artificial Intelligence(AI)  
+> Seeking PhD Position start at 2026 Fall or 2027 Spring
+
+🌐 **Info Website:** [https://zztang.anhuiuniversity.top](https://zztang.anhuiuniversity.top)  
+💻 **Github** [https://github.com/University-Pro](https://github.com/University-Pro)  
+📧 **Email** zztang@stu.ahu.edu.cn  
+Ⓜ️ **ORCID** https://orcid.org/0009-0006-9083-8967  
+✏️ **Blog Website** [My Blog](http://8.133.3.212)  
+📍 **Location:** Hefei, Anhui, China
 
 ---
 
 ## 👋 About Me
 
-Hello! I am a Master's student at [School of Internet](https://si.ahu.edu.cn/) in [Anhui University](https://www.ahu.edu.cn/), specializing in Deeplearning in Computer Vision. 
+Hello! I am a Master's student at [School of Internet](https://si.ahu.edu.cn/) in [Anhui University](https://www.ahu.edu.cn/),specializing in Deeplearning in Computer Vision.  
 My research interests lie in **Computer Vision Processing**, **Medical Image Segmentation(MIS)**, and their applications in autonomous systems.
 
-I am actively pursuing a PhD position in Japan, with a planned start in Fall 2026 or Spring 2027.
-To facilitate a smooth transition, I am open to beginning as a research student (研修生) for several months to adapt to life in a new cultural and academic environment.
-Japan is my preferred destination for doctoral studies compare with other countries in Asia, inspired by its leading advancements and technological innovation. 
 
-I am proficient in **Python**, and **PyTorch**, and have hands-on experience with Deep Learning in Image Segmenation Framework.
-I am skilled in surveying upstream research, reproducing state-of-the-art computer vision models in medical image segmentation, and extracting key components for implementation.
-I have strong Linux proficiency and am adept at troubleshooting research-related issues via command-line environments.
-I also possess foundational knowledge of Docker and have experience with virtualization platforms (such as Proxmox) for managing GPU resources across workstations and servers.
-Additionally, I built and maintained an LLM server within my university’s network, serving over 900 users with access to various open-source models (e.g., Qwen and DeepSeek).
-I am also experienced in maintaining and optimizing hardware components (CPU, GPU, memory, networking, PCI-E, etc.) for high-performance deep learning workloads.
-For example, I successfully modified my RTX 2080 Ti by replacing its 1GB VRAM chips with 2GB ones, effectively doubling the VRAM to 22GB.
+### Personal Feature Plan
+I am actively pursuing a PhD position in Japan, with a planned start in Fall 2026 or Spring 2027.  
+To facilitate a smooth transition, I am open to beginning as a research student (研修生) for several months to adapt to life in a new cultural and academic environment.  
+Japan is my preferred destination for doctoral studies compare with other countries in Asia.
 
-I’ve included a radar chart below to summarize my technical capabilities:
+### Ability in Language and Academic Skill
+I am able to reads and comprehends full English documentation fluently.  
+I have achieved a **TOEIC 805** for first time in **July 2025**; currently working toward a **6.5 IELTS** result.  
+I am still a beginner of Japanese. 
+I am proficient in **Python**, and **PyTorch**, and have hands-on experience with Deep Learning in **Medical Image Segmenation Framework**.  
+I am skilled in surveying upstream research, reproducing state-of-the-art models in multi-area, and extracting key components for implementation.  
+I have strong **Linux proficiency** and am adept at troubleshooting research-related issues via command-line only environments.  
+I also possess foundational knowledge of **Docker** and have experience with **virtualization platforms** (such as Proxmox) for managing GPU resources across workstations and servers for training model.[(Check My Portainer Manager Picture)](./pictures/1.png).  
 
+### Another Skills
+Additionally, I built and maintained an LLM (Large Language Model) server within my university’s network, serving around 900 users with access to various open-source models (e.g., Qwen and DeepSeek).[(Check My Nginx Monitor)](./pictures/2.png).  
+I am also experienced in maintaining and optimizing hardware components (CPU, GPU, memory, networking, PCI-E, etc.) for high-performance deep learning workloads.  
+For example, I successfully modified my RTX 2080 Ti by replacing its 1GB VRAM chips with 2GB ones, effectively doubling the VRAM to 22GB.[(Check The Pics of My GPU)](./pictures/1.jpg).  
+
+### Summary
+I’ve included a radar chart below to summarize my technical capabilities:  
+
+
+![Radar Chat](pictures/3.png)
 ---
 
 ## 🔬 Research Interests
 
-*   **2D Image:** Real-time, high-fidelity images segmentation in dynamic environments.
-*   **3D Images** Utilizing deep learning for novel view synthesis and scene representation
-*   **Image in AI4Science** Developing intuitive and safe interaction paradigms for collaborative robots.
-
+*   **2D/3D Images Segmentation/Classificationn:** Real-time, high-fidelity images segmentation/classification in dynamic environments.
+*   **Image in interdisciplinary:** Use Deeplearning to process(Segmentation/Classification...) images from interdisciplinary.
 ---
 
 ## 🎓 Education
 
 *   **M.S. in School of Internet** (2023 - 2026)
     *   Anhui University, Hefei, Anhui, China
-    *   **Thesis1:** "DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation" | [🔗 Link to PDF/Thesis Repository](你的论文链接)
-    *   **Thesis2:** "KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation"
-    *   **Thesis3:** 
-    *   **Advisor:** [Prof. Zhu][ORCID](https://orcid.org/0000-0002-4001-1551)
+    *   **Thesis1:** "DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation" | [🔗 Link to PDF/Thesis Repository](https://github.com/University-Pro/DLKUNet)
+    *   **Thesis2:** "KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation" | [🔗 Link to PDF/Thesis Repository](https://github.com/University-Pro/KANSeg)
+    *   **Thesis3:** ""
+    *   **GPA:** 3.85
+    *   **Advisor:** [Prof. Zhu] [ORCID](https://orcid.org/0000-0002-4001-1551)
 
 *   **R.A. in School of Internet** (2022-2023)
     *   Anhui University, Hefei, Anhui, China
-    *   
+    *   Majoy: Maintain
 
 *   **B.E. in Automation** (2018 - 2022)
     *   *Your Undergraduate University*, City, Country
