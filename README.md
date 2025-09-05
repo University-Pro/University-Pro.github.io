@@ -1,6 +1,5 @@
 # Tang Zhizhe(zztang)(CN:汤至哲)
 
-[![中文文档](https://img.shields.io/badge/中文-文档-blue.svg)](./README_CN.md)
 [![Japanese Document](https://img.shields.io/badge/English-Docs-orange.svg)](./README_JP.md)
 [![Korean Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.md)
 
