@@ -1,7 +1,6 @@
 # Tang Zhizhe(zztang)(CN:汤至哲)
 
-[![Japanese Document](https://img.shields.io/badge/English-Docs-orange.svg)](./README_JP.md)
-[![Korean Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.md)
+[![Japanese Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.html)
 
 > Master of Artificial Intelligence(AI)  
 > Seeking PhD Position start at 2026 Fall or 2027 Spring
