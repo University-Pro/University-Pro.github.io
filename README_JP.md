@@ -1,121 +1,72 @@
-# 湯至哲 (Tang Zhizhe, zztang)
+# 湯 至哲 (Zhizhe Tang)
 
-[![English Document](https://img.shields.io/badge/English-Docs-orange.svg)](./README.md)
-[![Japanese Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.md)
+> 人工知能科学 修士課程在籍
+> 2026年秋季または2027年春季入学の博士後期課程を志望
 
-> 人工知能（AI）修士  
-> 2026年秋または2027年春開始の博士課程（PhD）への進学を希望
-
-🌐 **情報ウェブサイト:** [https://zztang.anhuiuniversity.top](https://zztang.anhuiuniversity.top)  
-💻 **Github:** [https://github.com/University-Pro](https://github.com/University-Pro)  
+🌐 **ウェブサイト:** https://zztang.anhuiuniversity.top  
+💻 **GitHub:** https://github.com/University-Pro  
 📧 **メール:** zztang@stu.ahu.edu.cn  
 Ⓜ️ **ORCID:** https://orcid.org/0009-0006-9083-8967  
-✏️ **ブログウェブサイト:** [私のブログ](http://8.133.3.212)  
-📍 **所在地:** 中国、安徽省、合肥市
+📍 **所在地:** 中国安徽省合肥市
 
 ---
 
-## 👋 私について
+## 自己紹介
 
-私は安徽大学インターネット学院の修士課程に在籍しており、コンピュータビジョンにおける深層学習を専門としています。  
-私の研究関心は、**コンピュータビジョン**、**医用画像セグメンテーション（MIS）**、および自律システムへの応用にあります。
+私は安徽大学インターネット学院に在籍する修士課程の学生で、コンピュータビジョンにおける深層学習を専門としております。特に、医用画像セグメンテーションのための新しいアルゴリズムとモジュールの開発に研究の重点を置いております。実世界で応用可能な、効率的かつ高性能なモデルの設計に情熱を注いでおります。
 
-### 将来の計画
-2026年秋または2027年春から開始する、日本での博士課程への進学を積極的に目指しております。  
-新しい文化や学術環境に円滑に適応するため、数ヶ月間「研修生」として研究を開始することにも柔軟に対応できます。  
-アジアの他の国々と比較して、日本は博士課程の研究を行う上で最も希望する国です。  
-博士課程修了後は、日本での就職を希望しております。
+現在、日本での博士後期課程への進学を強く希望しており、新しい学術的・文化的環境へ円滑に適応するため、研究生として研究を開始することにも柔軟に対応できます。世界トップレベルの研究環境で最先端の研究に貢献することが私の目標です。
 
-### 語学力と技術スキル
-*   言語:
-    *   **英語:** 学術論文や技術文書の読解に堪能です。  
-    （TOEIC 805点、2025年7月取得。現在IELTSを準備中、目標スコア6.5点）
-    *   **日本語:** 初級レベル。
-    *   **中国語:** 母語。
+## 研究興味
 
-*   プログラミングとフレームワーク:
-    *   **Python**と**PyTorch**に習熟しています。
-    *   **医用画像セグメンテーション**のための深層学習フレームワークに関する豊富な実務経験があります。
-    *   文献調査、SOTAモデルの再現、新しいアイデアの実装に長けています。
+*   **効率的な医用画像セグメンテーション:** 高い精度と計算効率のバランスが取れた、頑健かつ軽量な2D/3Dセグメンテーションモデルの設計。
+*   **新規ネットワークアーキテクチャ:** 特徴表現とモデルの解釈可能性を向上させるための、革新的な深層学習アーキテクチャの探求と開発。
+*   **半教師あり学習:** 医用画像分野におけるラベル付きデータの不足という課題に対応するため、データ効率の良い学習戦略の研究。
+*   **学際的応用:** バイオインフォマティクスや材料科学など、他の科学分野の複雑な問題を解決するためのコンピュータビジョン技術の応用。
 
-*   システムとハードウェア:
-    *   **Linux**に精通しており、コマンドライン環境でのトラブルシューティングを得意としています。
-    *   GPUリソースを管理するための**Docker**や仮想化プラットフォーム（例：Proxmox）に関する知識があります。 ([(私のPortainer管理画面はこちら)](./pictures/1.png))
-    *   高性能な深層学習ワークロードのためのハードウェア（CPU、GPU、ネットワーク）の構築、保守、最適化の経験があります。[(私のGPUの写真はこちら)](./pictures/1.jpg)
+## 学歴・職歴
 
-### その他の経験
-*   LLMサーバー管理: 大学ネットワーク上に大規模言語モデル（LLM）サーバーを構築・保守し、900人以上のユーザーにQwenやDeepSeekなどのオープンソースモデルへのアクセスを提供しました。[(私のNginxモニター画面はこちら)](./pictures/2.png)
+*   **人工知能科学 修士** (2023年9月 - 2026年7月修了見込み)
+    *   *安徽大学*, 中国・合肥市
+    *   **指導教員:** 朱教授 (ORCID: [0000-0002-4001-1551](https://orcid.org/0000-0002-4001-1551))
 
-### 要約
-私の能力をまとめたレーダーチャートを以下に示します:  
+*   **リサーチアシスタント** (2022年7月 - 2023年9月)
+    *   *安徽大学 インターネット学院*, 中国・合肥市
+    *   研究活動の高可用性を確保するため、サーバーやネットワークスイッチを含むデータセンターのハードウェア管理・保守を担当。
+    *   複数の研究室に対し、安定的かつ高性能な深層学習環境を構築・提供。
 
-![レーダーチャート](pictures/3.png)
----
+*   **通信工学 学士** (2018年9月 - 2022年7月)
+    *   *安徽大学*, 中国・合肥市
+    *   **関連履修科目:** データ構造とアルゴリズム、コンピュータネットワーク、暗号学、オペレーティングシステム、Unixシェルプログラミングなど。
 
-## 🔬 研究関心
+## 研究業績
 
-*   **2D/3D画像のセグメンテーション/分類:** 効率的で堅牢なセグメンテーションおよび分類アルゴリズムの開発。
-*   **軽量で効率的なモデル:** リアルタイムアプリケーションに適した、高性能と計算効率のバランスが取れたモデルの設計。
-*   **学際的領域における画像応用:** コンピュータビジョン技術を応用し、他の科学分野の課題を解決すること。
----
+*   **[論文発表済み] DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation**
+    *   *International Journal of Imaging Systems and Technology*, 2024年
+    *   **貢献:** 性能と計算コストのトレードオフに優れた新規ネットワークを開発。パラメータ数と計算量を大幅に削減しつつ、既存研究を上回る最高水準（SOTA）の性能を達成。
+    *   [[論文]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.70035) | [[コード]](https://github.com/University-Pro/DLKUNet)
 
-## 🎓 学歴
+*   **[論文発表済み] KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation**
+    *   *Computers in Biology and Medicine*, 2025年
+    *   **貢献:** コルモゴロフ-アーノルドネットワーク（KAN）を医用画像分野へ先駆的に応用し、KAN活性化畳み込みモジュールを開発。SynapseデータセットでDice係数79.95%、ACDCデータセットで90.99%を達成し、SOTAを更新。
+    *   [[論文]](https://www.sciencedirect.com/science/article/abs/pii/S1051200425004944) | [[コード]](https://github.com/University-Pro/KANSeg)
 
-*   **人工知能修士** (2023年9月 - 2026年7月、修了見込み)
-    *   *安徽大学*、中国、安徽省、合肥市
-    *   **GPA:** 3.85
-    *   **指導教員:** [Prof. Zhu] [ORCID](https://orcid.org/0000-0002-4001-1551)
+*   **[査読中] AutoPromptSeg: Auto Decouple Uncertainty Prompt with SAM by Semi-supervised Learning in 3D Medical Image Segmentation**
+    *   *Neurocomputing*に投稿中。
+    *   **貢献:** セグメンテーションモデルのプロンプトを自動生成する新規の半教師あり学習フレームワークを提案。わずか10%のラベルデータで、LAデータセットにおいて90.02%という高いDice係数を達成。
+    *   [[コード]](https://github.com/University-Pro/AutoPromptSeg)
 
-*   **通信工学学士** (2018年9月 - 2022年7月)
-    *   *安徽大学*、中国、安徽省、合肥市
-    *   **関連科目:** データ構造とアルゴリズム、コンピュータネットワーク、暗号学、オペレーティングシステム、Unixシェルなど
+*   **[研究進行中] Learning Dynamic Recursive Depths for Image Segmentation Networks**
+    *   現在、性能と効率を最適化するため、計算深度を動的に調整するネットワークを開発中。
 
-## 💻 職務経歴
+## 受賞歴
 
-*   **インターネット学院 リサーチアシスタント** (2022年7月 - 2023年9月)
-    *   *安徽大学*、中国、安徽省、合肥市
-    *   サーバー、スイッチ、その他のデータセンターハードウェアの管理と保守を担当。
-    *   複数の研究室に対し、安定的で効率的な深層学習環境とネットワークサポートを提供。
+*   **大学一等奨学金** (2023年)
+*   **大学奨学金** (2018年, 2019年, 2020年, 2021年)
 
----
+## 連絡先
 
-## 📜 発表論文・プレプリント
+研究機会や共同研究に関するご相談を歓迎いたします。お気軽にご連絡ください。
 
-### [DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation] | Python, PyTorch [発表済み]
-**[🔗 論文](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.70035) | [📂 コード](https://github.com/University-Pro/DLKUNet)**
-
-*   **概要:** 医用画像セグメンテーションのための、新規かつ効率的なネットワークを開発しました。このモデルは、性能と計算コストのより良いトレードオフを目指しています。（詳細はGithubリポジトリまたは論文のウェブサイトをご覧ください。）
-*   **成果:** 我々が提案した3種類のモデルは、従来の手法と比較してパラメータ数と計算量を大幅に削減しつつ、SOTA（最先端）の性能を実証しました。（詳細はGithubリポジトリまたは論文のウェブサイトをご覧ください。）
-
-### [KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation] | Python, Pytorch [発表済み]
-**[🔗 論文](https://www.sciencedirect.com/science/article/abs/pii/S1051200425004944) | [📂 コード](https://github.com/University-Pro/KANSeg)**
-
-*   **概要:** 医用画像セグメンテーションにおける、新規のKolmogorov-Arnold Networks (KAN) の応用を研究しました。エンコーダとデコーダの両方を構築するためにKAN-Activated Convolutionモジュール（KAN-ACM）を開発し、多臓器画像内の複雑なパターンの学習と解釈を強化しました。（詳細はGithubリポジトリまたは論文のウェブサイトをご覧ください。）
-*   **成果:** 提案したKANSegは、Synapse多臓器データセット（Synapse）および自動心臓診断チャレンジ（ACDC）データセットにおいて、それぞれ79.95%、90.99%のDiceスコアを達成しました。この結果は、我々の手法が最先端の手法と比較して、より正確なセグメンテーション結果をもたらすことを示しています。（詳細はGithubリポジトリまたは論文のウェブサイトをご覧ください。）
-
-### Uncertainty-aware 3D Medical Image Segmentation with SAM | Python, Pytorch [論文準備中]
-**[📂 コード](https://github.com/University-Pro/DLKUNet)**
-
-*   **概要:** Decoupled Uncertainty Prompt Generator (DUPG) を備えた、新しい半教師あり3D医用画像セグメンテーションフレームワークを導入します。これは、データが不足しているシナリオで優れたセグメンテーション性能を維持しつつ、効果的なプロンプトをインテリジェントに生成します。
-*   **成果:** ラベル付きデータがわずか10%という厳しい制約の下で、我々の手法はAMOSで68.78%、LAで90.02%という驚異的なDice係数を達成し、限られた教師データしかないシナリオにおける我々の半教師あり学習フレームワークの性能を実証しました。
-
-### Learning Dynamic Recursive Depths for Image Segmentation Network... | Python, Pytorch [近日公開予定]
-
----
-
-## 🏆 受賞歴
-
-*   **学内奨学金** (2018年)
-*   **学内奨学金** (2019年)
-*   **学内奨学金** (2020年)
-*   **学内奨学金** (2021年)
-*   **学内奨学金** (2023年)
-
----
-
-## 📫 連絡先
-
-研究の機会、共同研究、その他興味深いアイデアについて、いつでも歓迎いたします。
-
-*   GitHub: [https://github.com/University-Pro](https://github.com/University-Pro)
-*   メール: zztang@stu.ahu.edu.cn
+*   **GitHub:** https://github.com/University-Pro
+*   **メール:** zztang@stu.ahu.edu.cn
