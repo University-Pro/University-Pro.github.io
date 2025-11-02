@@ -9,7 +9,7 @@
 💻 **Github** [https://github.com/University-Pro](https://github.com/University-Pro)  
 📧 **Email** zztang@stu.ahu.edu.cn  
 🌐 **Blog** [Check my Blog for more info](http://8.133.3.212)  
-Ⓜ️ **ORCID** https://orcid.org/0009-0006-9083-8967  
+Ⓜ️ **ORCID** [ORCID](https://orcid.org/0009-0006-9083-8967)  
 📍 **Location:** Hefei, Anhui, China
 
 ---
@@ -26,9 +26,8 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 
 ## 📚 Research Interests
 * Medical Image Segmentation: Developing robust and 2D/3D segmentation models in medical image segmentation.
-* Novel Network Architectures: Exploring and designing innovative deep learning architectures, for enhanced feature representation and model interpretability.
-* Semi-Supervised learning: Incestigating data-efficient learning strategies to address the challenge of limitd labeled data in imaging.
-* Interdisciplinary Applications: Applying computer vision techniques to solve complex problems in other scientific fields.
+* Novel Network Architectures in Computer Vision (CV): Exploring and designing innovative deep learning architectures, for enhanced feature representation and model interpretability.
+* Interdisciplinary Applications in CV: Applying computer vision techniques to solve complex problems in other scientific fields.
 
 ## 🎓 Education
 
@@ -65,17 +64,17 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 *   **Descripition:** We introduce a novel semi-supervised 3D medical image segmentation framework with Decoupled Uncertainty Prompt Generator (DUPG), which intelligently generates effective prompts while maintaining superior segmentation performance in data-scarce scenarios. And use Channel Alignment and Refusion Architecture (CAFA) to align and refine tensor from different branch of semi-supervised framework. For more detail, please check the reposities in [Github](https://github.com/University-Pro/AutoPromptSeg).
 *   **Outcome:** Under the challenging constraint of only 10% labeled data, our method achieves remarkable Dice coefficients of 68.78% on AMOS and 90.02% on LA, demonstrating the performance of our semi-supervised learning framework in scenarios with limited supervision.
 
-### Learning Dynamic Recursive Depths for Image Segmentation Network... | Python, Pytorch [Comming soon]
-* I am surveying and developing it right now and will public result after finish the paper.
+### [Learning Dynamic Recursive Depths for Image Segmentation Network...] | Python, Pytorch [Comming soon]
+
 ---
 
 ## 🏆 Honors & Awards
 
-*   **Scholarship from School** (2018) B.E.
-*   **Scholarship from School** (2019) B.E.
-*   **Scholarship from School** (2020) B.E.
-*   **Scholarship from School** (2021) B.E.
-*   **Scholarship from School** (2023) M.S.
+*   **Scholarship from School** (2018) at B.E.
+*   **Scholarship from School** (2019) at B.E.
+*   **Scholarship from School** (2020) at B.E.
+*   **Scholarship from School** (2021) at B.E.
+*   **Scholarship from School** (2023) at M.S.
 
 ---
 
