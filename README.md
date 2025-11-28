@@ -47,19 +47,19 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 
 ## 📜 Publications & Preprints
 
-### [DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation] | Python, PyTorch [Published]
+### [DLKUNet: A Lightweight and Efficient Network With Depthwise Large Kernel for Medical Image Segmentation] | Python, PyTorch [2024,Published]
 **[🔗 Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.70035) | [📂 Code Available](https://github.com/University-Pro/DLKUNet)**
 
 *   **Description:**  Developed a novel and efficient network for medical image segmentation. The model aims to achieve a better trade-off between performance and computation cost. 
 *   **Outcome:** Three different kinds of model we proposed demostrated SOTA while significantly reducing the number of parameters and computational complexity compared to previous methods.
 
-### [KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation] | Python, Pytorch [Published]
+### [KANSeg: An efficient medical image segmentation model based on Kolmogorov-Arnold networks for multi-organ segmentation] | Python, Pytorch [2025,Published]
 **[🔗 Paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200425004944) | [📂 Code Available](https://github.com/University-Pro/KANSeg)**
 
 *   **Descripition:** Explored the application of the novel Kolmogorov-Arnold Networks (KAN) for medical image segmentation. We develop a KAN-Activated Convolution module (KAN-ACM) to construct both the encoder and decoder, thereby enhancing the learning and interpretation of intricate patterns within multi-organ images.
 *   **Outcome:**  The proposed KANSeg can achieve Dice Score of 79.95%, 90.99% on the Synapse multi-organ dataset (Synapse) and the Automated cardiac diagnosis challenge (ACDC) datasets. The outcomes demonstrate that our method yields more accurate segmentation results compared with state-of-the-art methods. (For more detail, please check the Github Repository or Paper's website.)
 
-### [AutoPromptSeg: Auto Decouple Uncertainty Prompt with SAM by Semi-supervised Learning in 3D Medical Image Segmentation] | Python, Pytorch [Processing]
+### [AutoPromptSeg: Auto Decouple Uncertainty Prompt with SAM by Semi-supervised Learning in 3D Medical Image Segmentation] | Python, Pytorch [2025,Processing]
 **[📂 Code Updating](https://github.com/University-Pro/AutoPromptSeg)**
 
 *   **Descripition:** We introduce a novel semi-supervised 3D medical image segmentation framework with Decoupled Uncertainty Prompt Generator (DUPG), which intelligently generates effective prompts while maintaining superior segmentation performance in data-scarce scenarios. And use Channel Alignment and Refusion Architecture (CAFA) to align and refine tensor from different branch of semi-supervised framework.
