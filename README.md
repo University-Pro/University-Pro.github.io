@@ -59,7 +59,7 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 *   **Descripition:** Explored the application of the novel Kolmogorov-Arnold Networks (KAN) for medical image segmentation. We develop a KAN-Activated Convolution module (KAN-ACM) to construct both the encoder and decoder, thereby enhancing the learning and interpretation of intricate patterns within multi-organ images.
 *   **Outcome:**  The proposed KANSeg can achieve Dice Score of 79.95%, 90.99% on the Synapse multi-organ dataset (Synapse) and the Automated cardiac diagnosis challenge (ACDC) datasets. The outcomes demonstrate that our method yields more accurate segmentation results compared with state-of-the-art methods. (For more detail, please check the Github Repository or Paper's website.)
 
-### [AutoPromptSeg: Auto Decouple Uncertainty Prompt with SAM by Semi-supervised Learning in 3D Medical Image Segmentation] | Python, Pytorch [Processing by Neurocomputing]
+### [AutoPromptSeg: Auto Decouple Uncertainty Prompt with SAM by Semi-supervised Learning in 3D Medical Image Segmentation] | Python, Pytorch [Processing]
 **[📂 Code Updating](https://github.com/University-Pro/AutoPromptSeg)**
 
 *   **Descripition:** We introduce a novel semi-supervised 3D medical image segmentation framework with Decoupled Uncertainty Prompt Generator (DUPG), which intelligently generates effective prompts while maintaining superior segmentation performance in data-scarce scenarios. And use Channel Alignment and Refusion Architecture (CAFA) to align and refine tensor from different branch of semi-supervised framework.
@@ -69,8 +69,8 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 
 ## 🏆 Honors & Awards
 
-* *First-Class Master's Scholarship(2025)*: Awarded to top 10\% of graduate students for academic excellence.
-* *Merit Scholarship(2023)*: Awarded to top 20\% of graduate students.
+* *First-Class Master's Scholarship(2025)*: Awarded to top 10% of graduate students for academic excellence.
+* *Merit Scholarship(2023)*: Awarded to top 20% of graduate students.
 * *Scholarship from Anhui University(2019,2020,2021)* at B.E.
 
 ---
