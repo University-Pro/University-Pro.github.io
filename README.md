@@ -3,7 +3,7 @@
 [![Japanese Document](https://img.shields.io/badge/Japanese-Docs-fedcba.svg)](./README_JP.html)
 
 > Master of Artificial Intelligence(AI)  
-> Seeking PhD Position start after **2026 Fall**
+> Seeking PhD Position start at **2026 Fall**
 
 🌐 **Info Website:** [https://zztang.anhuiuniversity.top](https://zztang.anhuiuniversity.top)  
 💻 **Github** [https://github.com/University-Pro](https://github.com/University-Pro)  
@@ -22,12 +22,12 @@ My work is centered on developing advanced algorithms/model for **Medical Image 
 I am passionate about building efficient, high-performance models that can be translated into real-world applications.
 
 I am actively seeking a PhD position in Japan and am flexible to begin as a research student to facilitate a smooth transition into a new academic and cultural environment.  
-My goal is to contribute to cutting-edge research in a world-class academic setting.
+My goal is to contribute to cutting-edge research in a world-class academic setting and continue work in Japan.
 
 ## 📚 Research Interests
 * Medical Image Segmentation: Developing robust 2D/3D segmentation models in medical image segmentation.
 * Novel Network Architectures in Computer Vision (CV): Exploring and designing innovative deep learning architectures, for enhanced feature representation and model interpretability.
-* Interdisciplinary Applications in CV: Applying computer vision techniques to solve complex problems in scientific fields.
+* Interdisciplinary Applications in CV: Applying computer vision techniques to solve complex problems in application of scientific fields.
 
 ## 🎓 Education
 
@@ -69,9 +69,9 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 
 ## 🏆 Honors & Awards
 
-*   **Scholarship from School** (2021) at B.E.
-*   **Scholarship from School** (2023) at M.S.
-*   **Scholarship from School** (2025) at M.S.
+* *First-Class Master's Scholarship(2025)*: Awarded to top 10\% of graduate students for academic excellence.
+* *Merit Scholarship(2023)*: Awarded to top 20\% of graduate students.
+* *Scholarship from Anhui University(2019,2020,2021)* at B.E.
 
 ---
 
