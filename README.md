@@ -21,8 +21,8 @@ I am a Maste candidate at [School of Internet](https://si.ahu.edu.cn/) in [Anhui
 My work is centered on developing advanced algorithms/model for **Medical Image Segmentation**.  
 I am passionate about building efficient, high-performance models that can be translated into real-world applications.
 
-I am actively seeking a PhD position in Japan and am flexible to begin as a research student to facilitate a smooth transition into a new academic and cultural environment.  
-My goal is to contribute to cutting-edge research in a world-class academic setting and continue work in Japan.
+I am actively seeking a PhD position in Japan.  
+My goal is to contribute to cutting-edge research in a world-class academic setting.
 
 ## 📚 Research Interests
 * Medical Image Segmentation: Developing robust 2D/3D segmentation models in medical image segmentation.
@@ -34,7 +34,7 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 *   **M.S. in Artificial Intelligence** (09.2023 - 07.2026, expected)
     *   *Anhui University*, Hefei, Anhui, China
     *   *GPA:* 3.85
-    *   *Advisor:* Prof.Zhu [ORCID Link](https://orcid.org/0000-0002-4001-1551)
+    *   *Advisor:* Dr.Junan Zhu [ORCID Link](https://orcid.org/0000-0002-4001-1551)
 
 *   **R.A. in School of Internet** (09.2022 - 09.2023)
     *   *Anhui University*, Hefei, Anhui, China
@@ -72,12 +72,3 @@ My goal is to contribute to cutting-edge research in a world-class academic sett
 * *First-Class Master's Scholarship(2025)*: Awarded to top 10% of graduate students for academic excellence.
 * *Merit Scholarship(2023)*: Awarded to top 20% of graduate students.
 * *Scholarship from Anhui University(2019,2020,2021)* at B.E.
-
----
-
-## 📫 Let's Connect!
-
-I am always open to discussing research opportunities, collaborations, or any interesting ideas.
-
-*   GitHub: [https://github.com/University-Pro](https://github.com/University-Pro)
-*   Email: zztang@stu.ahu.edu.cn
