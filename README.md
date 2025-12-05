@@ -21,7 +21,7 @@ I am a Maste candidate at [School of Internet](https://si.ahu.edu.cn/) in [Anhui
 My work is centered on developing advanced algorithms/model for **Medical Image Segmentation**.  
 I am passionate about building efficient, high-performance models that can be translated into real-world applications.
 
-I am actively seeking a PhD position in Japan.  
+I am actively seeking a PhD position in Japan.
 My goal is to contribute to cutting-edge research in a world-class academic setting.
 
 ## 📚 Research Interests
